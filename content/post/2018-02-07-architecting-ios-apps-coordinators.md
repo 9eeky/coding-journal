@@ -13,7 +13,10 @@ When switching from Windows Phone development to iOS I had about 3 months to lea
 
 I started to look at some iOS tutorials and other peoples' iOS code. Learning and using Swift was easy (read more about [my Swift experience in a separate blog post](/my-experience-with-swift-after-9-months)) but when reading about using the iOS SDK and especially application architecture I found stuff that I really disliked. 
 
-There were three big things in particular that I disliked, that I want to show you together with solutions I found. This first post deals with navigation. 
+There were three big things in particular that I disliked, that I want to show you together with solutions I found. This first post deals with **navigation**. 
+
+* Part 1: Coordinators (this post)
+* [Part 2: MVVM](/architecting-ios-apps-mvvm)
 
 ### The problem
 
